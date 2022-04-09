@@ -1,0 +1,20 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "git" : "git add . && git commit -m 'npm test' && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrahbeydilli/js-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrahbeydilli/js-test/issues"
+  },
+  "homepage": "https://github.com/emrahbeydilli/js-test#readme"
+}
